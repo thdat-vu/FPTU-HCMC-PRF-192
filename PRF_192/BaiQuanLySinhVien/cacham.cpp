@@ -1,0 +1,16 @@
+void printLine(int n);
+int idLonNhat(SV a[], int n);
+void nhapThongTinSV(SV &sv, int id);
+void nhapSV(SV a[], int id, int n);
+void capNhatThongTinSV(SV &sv);
+void capNhatSV(SV a[], int id, int n);
+int xoaTheoID(SV a[], int id, int n);
+void timKiemTheoTen(SV a[], char ten[], int n);
+void tinhDTB(SV &sv);
+void xeploai(SV &sv);
+void sapxepTheoDTB(SV a[], int n);
+void sapXepTheoTen(SV a[], int n);
+void showStudent(SV a[], int n);
+int docFile(SV a[], char fileName[]);
+void ghiFile(SV a[], int n, char fileName[]);
+void pressAnyKey();

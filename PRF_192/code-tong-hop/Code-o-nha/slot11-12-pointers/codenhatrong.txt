@@ -1,0 +1,7 @@
+echo "# code-nha-trong" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/thdat-vu/code-nha-trong.git
+git push -u origin main

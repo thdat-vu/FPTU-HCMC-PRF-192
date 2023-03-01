@@ -1,0 +1,6 @@
+Joseph;12 Le Loi, Q1, TPHCM;7
+Dinh Tan Vu;12/66 duong so 3, Go Vap, TPHCM;8
+Miranda;123 Calmette, District 1, HCM City;5
+Celine Dion;124 street 8, district 7, HCM City;9
+Vu Thanh Dat;325 Bach Dang Street, BinhThanh District, HCM City; 10
+Pham Minh Khoi; HighTech Park, District 9, ThuDuc City; 10

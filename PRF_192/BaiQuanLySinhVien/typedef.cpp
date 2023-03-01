@@ -1,0 +1,1 @@
+typedef SinhVien SV;

@@ -1,0 +1,5 @@
+Note của thầy Kiếm KUTe:
+Quiz 1 -> 1
+Quiz 2 -> 2.
+... 
+Quiz n -> n
