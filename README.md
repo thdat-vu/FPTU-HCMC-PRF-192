@@ -1,4 +1,4 @@
-# FPTU-HCMC-PRF-192-KiemHH
+# FPTU-HCMC-PRF-192
 This is the process and resource that you need to pass PRF 192 (PE: 10).
 <br>`code-tong-hop`: code-o-nha + demo codes + workshop
 <br>`code-o-nha`: codes on slides
